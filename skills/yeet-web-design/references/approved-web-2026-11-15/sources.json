@@ -1,0 +1,53 @@
+{
+  "approval_date": "2026-11-15",
+  "approval_thread": "01a1dc4a-bf52-7f42-92f5-697b6afcdbcd",
+  "source_root": "/Users/yigit/Documents/ChatGPT/YEETTASARIMSKİLL",
+  "images": [
+    {
+      "file": "assets/alfa-portfolio-header.jpg",
+      "source": "sites/alfa-invest/reviews/header-search-20261115/live-desktop.jpg",
+      "sha256": "9e9c95624d1af48bc529848cd739d3d8cfe04c3f34a8808a783c0212c67dd712",
+      "scope": "Portföy kartları, sektör dokusu ve sabit arama barı; hareketin ara karesi tam simetri ölçümü değildir."
+    },
+    {
+      "file": "assets/alfa-advisor-cards.jpg",
+      "source": "sites/alfa-invest/reviews/advisor-shine-soft-20261115/live.jpg",
+      "sha256": "5f09141433429ecb8e3a223d8e9ac32796b2c6fc4676caa17edc393384b314e4",
+      "scope": "Danışman kartı ve okunur eylem alanı; bu eski bileşen kaydının üst barı güncel header ölçütü değildir."
+    },
+    {
+      "file": "assets/aroma-products.png",
+      "source": "output/best-aroma-website-v7/preview/live-products.png",
+      "sha256": "cf0d358a464f5e970dc94172ed62e81ad72190179049e184c25b51db5078c4eb",
+      "scope": "v7 eşit 4:5 ürün sırası, ortak yazı ve eylem hizası."
+    },
+    {
+      "file": "assets/aroma-mobile-hero.png",
+      "source": "output/best-aroma-website-v7/preview/live-mobile-hero.png",
+      "sha256": "f802804a8564c10f3fc217b6fb48544dfc26770e8931165dcdf155842103a342",
+      "scope": "v7 mobil ana ürün, özgün logo, eşit yardımcı yüzeyler."
+    }
+  ],
+  "live_snapshot": {
+    "date": "2026-11-15",
+    "snapshots": [
+      {
+        "site": "alfa",
+        "url": "https://alfa-invest-one.vercel.app/",
+        "http": 200,
+        "sha256": "4827283b35b285dcbfc3daa5b212e94d96eb47970b34f6d888d26bcd525a59b7",
+        "local_index_matches": false,
+        "local_index": "/Users/yigit/Documents/ChatGPT/YEETTASARIMSKİLL/sites/alfa-invest/dist/index.html"
+      },
+      {
+        "site": "aroma",
+        "url": "https://best-aroma-shop.vercel.app/",
+        "http": 200,
+        "sha256": "f79fca59cf133879a0c8101eb337a3308d76fef79629eeec0972ed06312b92f9",
+        "local_index_matches": true,
+        "local_index": "/Users/yigit/Documents/ChatGPT/YEETTASARIMSKİLL/sites/best-aroma/dist/index.html"
+      }
+    ]
+  },
+  "note": "Eski ekran kayıtları belirtilen bileşenin kanıtıdır; canlı iki ana sayfa bu bakım turunda ayrıca görsel olarak incelendi. Kullanıcı onayı tasarım sonucunadır; teknik test kapsamını genişletmez."
+}

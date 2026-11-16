@@ -1,0 +1,4 @@
+interface:
+  display_name: "YEET Web Design"
+  short_description: "Referans, plan ve onaydan çalışan web arayüzüne"
+  default_prompt: "$yeet-web-design ile onaylı Alfa Invest/Best Aroma örneklerinden işe uygun tasarım ilişkilerini ve kaynak görsellerini incele; somut plan sun, onaydan sonra temsilî bölümü karşılaştırıp düzelt ve çalışan mobil uyumlu kapsamı tamamla."
